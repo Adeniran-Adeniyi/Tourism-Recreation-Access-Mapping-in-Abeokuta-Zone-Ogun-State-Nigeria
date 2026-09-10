@@ -13,4 +13,16 @@
 -many have no surface tag, so paved and unpaved can not be separeted everywhere
 -Coverage looks good in the built-up area, sparse at the edge
 
+## Tourism and Recreational sites
+-source:
+-Downloaded:
+-features
+-columns:
+
+## Hotel 
+-source:
+-Downloaded:
+-features
+-columns:
+
 
