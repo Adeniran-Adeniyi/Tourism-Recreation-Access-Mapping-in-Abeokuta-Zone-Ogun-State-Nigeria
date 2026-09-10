@@ -20,9 +20,9 @@
 - columns:
 
 ## Hotel 
--source:
--Downloaded:
--features
--columns:
+- source:
+- Downloaded:
+- features
+- columns:
 
 
