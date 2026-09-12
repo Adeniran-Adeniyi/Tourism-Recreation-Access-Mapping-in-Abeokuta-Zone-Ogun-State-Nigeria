@@ -10,7 +10,7 @@
 - cover my study area fully
 
 ## OSM roads, Extracted via Quick OSM
-- Source: [openstreet](https://openstreetmap.org/)
+- Source: [openstreetmap](https://openstreetmap.org/)
 - Quary: highway=* within Abeokuta zone
 - Extracted: Extracted date: Friday, September 4, 2026 8:31:38 PM
 - Total size: (1.2 MB),
@@ -20,7 +20,7 @@
 - Coverage looks good in the built-up area, sparse at the edge
 
 ## Tourism and Recreational sites
-- source: [openstreet](https://openstreetmap.org/)
+- source: [openstreetmap](https://openstreetmap.org/)
 - Query: tourism = * within the layer extent (Abeokuta zone)
 - Extracted: Friday, September 4, 2026 9:31:38 PM
 - 38 features, nodes
@@ -33,7 +33,7 @@ artwork_type, wikidata, website, name
 
 
 ## Hotel 
-- source: https://openstreetmap.org/
+- source: [openstreetmap](https://openstreetmap.org/)
 - Query: tourism with the value 'hotel' = * within the layer extent (Abeokuta zone)
 - Extracted: Friday, September 4, 2026 9:25:38 PM
 - 8 features, nodes
