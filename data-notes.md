@@ -1,4 +1,4 @@
-#Data notes
+# Data notes
 ## GRID3 Nigeria Operational Local Government Area (LGA) Boundaries (administrative level 2)
 - source: [GRID3](https://data.grid3.org/datasets/2bb616a49ee84f409427cc2143787113_0/explore?location=9.077959%2C8.685290%2C5)
 - Downloaded:Friday, September 4, 2026 5:30:38 PM
