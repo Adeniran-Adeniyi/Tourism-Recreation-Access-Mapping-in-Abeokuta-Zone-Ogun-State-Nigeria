@@ -44,6 +44,11 @@ addr:housenumber, addr:city, website, name
 - There is null value in the following columns internet_access:fee, internet_access, though there are website in some of the features
 - Some of the feature are found out side the study area.
 
-
+## CRS and Preparation 
+- All source layer arrived in EPSG:4326
+- study area : Abeokuta zone which include two five local government namelly Abeokuta north, Abeokuta south, Obada, Ewekoro and Obafemi owode, extracted from GRID3 state boundary
+- All layers are clipped to the study area, then reprojected to EPSG: 32613 (UTM 31N)
+- Area check: Abeokuta zone 4763.3 sqkm  , matches publisthed figure
+- working files in data/ processed/ raw files untouched
 
 
