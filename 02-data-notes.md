@@ -8,10 +8,10 @@
 
 | # | Dataset | Type | Retrieved | Status |
 |---|---|---|---|---|
-| 1 | tourism and recrational site | Vector | July 12 | OK |
-| 2 | Hotels | Vector | August 12 | OK |
-| 3 | Road | Vector | September 13 | OK |
-| 4 | Admin Boundary Level 2 | Vector | September 13 | OK |
+| 1 | tourism and recrational site | Vector | September 4 | OK |
+| 2 | Hotels | Vector | September 4 | OK |
+| 3 | Road | Vector | September 4 | OK |
+| 4 | Admin Boundary Level 2 | Vector | September 4 | OK |
 
 
 ## GRID3 Nigeria Operational Local Government Area (LGA) Boundaries (administrative level 2)
