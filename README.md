@@ -41,4 +41,4 @@
 > Learn. Build. Collaborate. Transform.
 
 
-See [project-brief.md](project-brief.md) for the full project brief.
+See [project-brief.md](01-project-brief.md) for the full project brief.
