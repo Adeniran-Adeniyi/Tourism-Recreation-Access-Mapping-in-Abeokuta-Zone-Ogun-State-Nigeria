@@ -24,12 +24,19 @@ What I reprojected, what I clipped, what I checked, and what I fixed.
 > extract only 6 local government that make Abeokuta zone from Nigeria level 2 boundary
 > Filled all the necessery field in the attribute table for layer Hotel and Tourism and recreational sites
 
+## 2. Quary for Abeokuta zone
+> to get coverage area or boundary i quary 6 lGA out of 775 in nigeria Administrative boundary
+> Code
+```
+MAME_2 IN ('Abeokuta south', 'Abeokuta north', 'Odeda', 'Ifo', 'Obafemi Owode', 'Ewekoro')
+```
+
 
 ## 2. Clipping to the study area
 
-- **Boundary used:** >Abeokuta zone
-- **Features before clipping:** <number>
-- **Features after clipping:** <number>
+- **Boundary used:** > [Abeokuta zone](https://data.grid3.org/datasets/2bb616a49ee84f409427cc2143787113_0/explore?location=9.077959%2C8.685290%2C5)
+- **Features before clipping:** <775>
+- **Features after clipping:** <>
 
 <One sentence on anything unexpected, for example features that fell just
 outside the boundary and whether you kept them.>
