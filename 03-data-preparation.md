@@ -1,7 +1,7 @@
 # Data preparation
 
 **Week 3 deliverable.** GeoDev Lab Africa, Cohort One.
-Author: <your name>
+>Author: Adeniran Adeniyi Damilola
 
 What I reprojected, what I clipped, what I checked, and what I fixed.
 
@@ -9,22 +9,25 @@ What I reprojected, what I clipped, what I checked, and what I fixed.
 
 ## 1. Coordinate system decisions
 
-**Working CRS:** <EPSG:XXXX>
+**Working CRS:** <EPSG:4326>
 
-**Why this one:** <One or two sentences. If you are measuring distance or
-area, say that your chosen CRS is in metres and name the zone.>
+**Why this one:** To measure the area of the boundary i reproject the Abeokuta zone boundary from EPSG:4326 to EPSG:4326
 
 | Dataset | CRS as downloaded | CRS after | Operation |
 |---|---|---|---|
-| <name> | EPSG:4326 | EPSG:32631 | Reprojected |
-| <name> | EPSG:32631 | EPSG:32631 | No change needed |
+| Abeokuta zone boundary | EPSG:4326 | EPSG:32631 | Reprojected |
+| hotel | EPSG:32631 | EPSG:32631 | No change needed |
+| Tourism and recreational sites | EPSG:32631 | EPSG:32631 | No change needed |
+| Road | EPSG:32631 | EPSG:32631 | No change needed |
 
 > Reprojecting recalculates every coordinate. Assigning a CRS only
-> relabels the data. Say which one you did.
+> extract only 6 local government that make Abeokuta zone from Nigeria level 2 boundary
+> Filled all the necessery field in the attribute table for layer Hotel and Tourism and recreational sites
+
 
 ## 2. Clipping to the study area
 
-- **Boundary used:** <source and file>
+- **Boundary used:** >Abeokuta zone
 - **Features before clipping:** <number>
 - **Features after clipping:** <number>
 
