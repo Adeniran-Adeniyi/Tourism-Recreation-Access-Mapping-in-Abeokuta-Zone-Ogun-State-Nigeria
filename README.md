@@ -1,34 +1,44 @@
-# My GeoDev Lab Africa Project
+# Tourism & Recreation Access Mapping in Abeokuta zone Ogun State nigeria
 
-## Tourism & Recreation Access Mapping in Abeokuta zone Ogun State, State Nigeria
+> This Project explores Tourist and Tecreation sites across Abeokuta zone Ogun state. Their accessibility through the road network and nearby hotels.
 
-**Where are the tourist and recreational sites in Abeokuta zone, Ogun State, how quickly can visitors reach them, and which hotels are nearby?**
 
-Built with **GeoDev Lab Africa, Cohort One**.
+**GeoDev Lab Africa, Cohort One.**
+> Prepared by : Adeniran Adeniyi Damilola
 
-This project explores tourist and recreational sites across Ogun State, their accessibility through the road network, and nearby hotels.
+## The question
+> Where are the Tourist and Recreation sites in Abeokuta zone, Ogun state, and how can we access them and which Hotels are nearby. 
+
+
+## What's in here
+
+```
+<project-name>/
+├── docs/
+│   ├── 01-project-brief.md      Week 1
+│   ├── 02-data-notes.md         Week 2
+│   └── 03-data-preparation.md   Week 3
+├── data/
+│   ├── raw/                     downloads, not committed
+│   └── processed/               outputs, not committed
+├── scripts/
+└── requirements.txt
+```
+
+## How to run it
+
+
+## Progress
+
+- [x] Week 1, project brief with a source link for every dataset
+- [x] Week 2, data downloaded, opened and described
+- [x] Week 3, reprojected, clipped and quality checked
+- [ ] Week 4, first spatial analysis, checked four ways
+
+---
+
+>Adeniran Adeniyi Damilola · GeoDev Lab Africa
+> Learn. Build. Collaborate. Transform.
+
 
 See [project-brief.md](project-brief.md) for the full project brief.
-
-## What I'm Exploring
-
-- Tourist and recreational sites
-- Nearby hotels
-- Road accessibility
-- Fastest routes to attractions
-- Distance between attractions and hotels
-
-## Data
-
-- Ogun State administrative boundary
-- Tourist and recreational sites
-- Hotels
-- Road network
-
-## Tools
-
-- QGIS
-
-## Project Status
-
-🚧 Work in progress
