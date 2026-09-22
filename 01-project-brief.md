@@ -22,6 +22,8 @@
 
 >The study area covers six Local Government Areas in Ogun State: Abeokuta North, Abeokuta South, Odeda, Ewekoro, Obafemi Owode and Ifo. The study area lies approximately between latitudes 6.75°N and 7.35°N and longitudes 3.05°E and 3.60°E.
 
+![Abeokuta_zone]("C:\Users\DELL LATITUDE 7490\Desktop\tourism study area.png")
+
 ## 4. What I mean by the terms
 
 - Tourism attractions, Recreational sites : *this are the places of historical, cultural, archiological heritage site* 
