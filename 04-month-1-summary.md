@@ -56,9 +56,9 @@ What stood out to me was that **being geographically close does not necessarily 
 ![hotel-tourist-attraction-connectivity-map](images/hotel-tourist-attraction-connectivity-map.png)
 
 
-> The image below shows hotel, tourist and recreation attraction site connectivity using < OD-cost matrix >
+> The image below shows most connected hotel to tourism and recreation site, while maximizing distance of 6kml
 
-![hotel-tourist-attraction-connectivity-map](tourism-recreation-distribution.png)
+![hotel attractionw within 6klm](images/hotel-attraction-within-6klm.png)
 
 
 ## Limitations, stated plainly
