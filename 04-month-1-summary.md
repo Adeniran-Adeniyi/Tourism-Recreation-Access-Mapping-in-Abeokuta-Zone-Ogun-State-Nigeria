@@ -46,6 +46,12 @@ What stood out to me was that **being geographically close does not necessarily 
 > I also found it interesting that one accommodation location could provide access to several attractions within the same travel-distance threshold.
 
 ## Maps Generated
+> The image below shows the distribution of hotel, tourism & recreation attraction sites
+
+![tourism-recreation-distribution](images/tourism-recreation-distribution.png)
+
+
+> The image below shows the distribution of hotel, tourism & recreation attraction sites
 
 
 ## Limitations, stated plainly
