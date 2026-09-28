@@ -51,7 +51,14 @@ What stood out to me was that **being geographically close does not necessarily 
 ![tourism-recreation-distribution](images/tourism-recreation-distribution.png)
 
 
-> The image below shows the distribution of hotel, tourism & recreation attraction sites
+> The image below shows hotel, tourist and recreation attraction site connectivity using < OD-cost matrix >
+
+![hotel-tourist-attraction-connectivity-map](images/hotel-tourist-attraction-connectivity-map.png)
+
+
+> The image below shows hotel, tourist and recreation attraction site connectivity using < OD-cost matrix >
+
+![hotel-tourist-attraction-connectivity-map](tourism-recreation-distribution.png)
 
 
 ## Limitations, stated plainly
