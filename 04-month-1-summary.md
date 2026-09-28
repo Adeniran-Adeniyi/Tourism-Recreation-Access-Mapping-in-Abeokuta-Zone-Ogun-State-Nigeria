@@ -47,6 +47,7 @@ What stood out to me was that **being geographically close does not necessarily 
 
 ## Maps Generated
 
+
 ## Limitations, stated plainly
 
 - The analysis uses **travel distance**, but does not yet account for actual travel time, traffic congestion, or different travel conditions.
@@ -54,14 +55,13 @@ What stood out to me was that **being geographically close does not necessarily 
 - The analysis does not yet consider hotel price, quality, availability, or visitor preferences.
 - The result depends on the **quality and completeness of the road network and tourism datasets**.
 - Accessibility was examined primarily from the perspective of distance; other factors such as public transport availability and road condition were not included.
-
+  
 ## What I still need
 
-- **Travel-time data** to move beyond distance and understand how long it actually takes to reach each attraction.
-- More detailed **hotel attributes**, such as price, rating, availability, and accommodation capacity.
-- More complete **tourist-attraction information**, including opening hours, entrance fees, and attraction categories.
-- Public transportation data to examine accessibility for visitors who do not have private vehicles.
-- A way to combine the different factors into a **tourism trip-planning system** that can recommend accommodation and attractions based on a visitor's preferences.
+-i **Travel-time data** to move beyond distance and understand how long it actually takes to reach each attraction.
+-ii More detailed **hotel attributes**, such as price, rating, availability, and accommodation capacity.
+-iii More complete **tourist-attraction information**, including opening hours, entrance fees, and attraction categories.
+
 
 ## Month 1 Reflection
 
