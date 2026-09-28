@@ -4,7 +4,7 @@
 
 **Which hotel provides better access to multiple tourist attractions while minimising travel distance within the study area?**
 
-The broader goal is to develop a geospatial approach that can support tourism trip planning by helping visitors understand **where to stay, which attractions are nearby, how to get there, and what other attractions they can visit within the same trip.**
+> The broader goal is to develop a geospatial approach that can support tourism trip planning by helping visitors understand **where to stay, which attractions are nearby, how to get there, and what other attractions they can visit within the same trip.**
 
 ## Operation
 
@@ -16,25 +16,25 @@ In QGIS, I prepared the datasets and used the **QNEAT3 Origin-Destination Cost M
 - **Tourist centres/attractions as destinations**
 - **Road network as the movement network**
 
-I then filtered the OD results using a **6 km travel-distance threshold** to identify tourist attractions that could be accessed within the selected distance from each hotel.
+> I then filtered the OD results using a **6 km travel-distance threshold** to identify tourist attractions that could be accessed within the selected distance from each hotel.
 
-## Expected
+### Expected
 
-I expected hotels located around the major tourism cluster in Abeokuta, particularly around the **Olusegun Obasanjo Presidential Library (OOPL)** and central Abeokuta, to have better accessibility to multiple tourist attractions because of their proximity to several destinations and the surrounding road network.
+> I expected hotels located around the major tourism cluster in Abeokuta, particularly around the **Olusegun Obasanjo Presidential Library (OOPL)** and central Abeokuta, to have better accessibility to multiple tourist attractions because of their proximity to several destinations and the surrounding road network.
 
-## Got
+### Got
 
 The network analysis produced multiple hotel-to-tourist-attraction connections.
 
 After applying the **6 km network-distance threshold**, **Green Legacy Villa around OOPL** emerged as having connections to several of the selected tourist attractions, including:
 
-- Olumo Rock Tourist Centre
-- MacGregor Heritage Museum
-- Alake Palace Ground
-- Itoko Adire Market
-- The Kuti Heritage Museum
-- Madam Tinubu Shrine
-- MKO Abiola International Stadium
+- *Olumo Rock Tourist Centre*
+- *MacGregor Heritage Museum*
+- *Alake Palace Ground*
+- *Itoko Adire Market*
+- *The Kuti Heritage Museum*
+- *Madam Tinubu Shrine*
+- *MKO Abiola International Stadium*
 
 This showed how network analysis can reveal relationships that are not immediately obvious from simply looking at the locations on a map.
 
@@ -42,9 +42,10 @@ This showed how network analysis can reveal relationships that are not immediate
 
 What stood out to me was that **being geographically close does not necessarily tell the complete story about accessibility**.
 
-Two attractions may appear relatively close on a map, but the actual distance through the road network can be different. The OD Cost Matrix therefore provided a more practical way of looking at tourism accessibility than simply measuring straight-line distance.
+> Two attractions may appear relatively close on a map, but the actual distance through the road network can be different. The OD Cost Matrix therefore provided a more practical way of looking at tourism accessibility than simply measuring straight-line distance.
+> I also found it interesting that one accommodation location could provide access to several attractions within the same travel-distance threshold.
 
-I also found it interesting that one accommodation location could provide access to several attractions within the same travel-distance threshold.
+## Maps Generated
 
 ## Limitations, stated plainly
 
@@ -70,4 +71,4 @@ I started with the question of how GIS could help someone plan a tourism trip. B
 
 There is still a lot to improve, but this month has shown me how geospatial data can move beyond maps and become a tool for **decision-making and real-world problem solving**.
 
-> **Little here, little there, trusting the process.**
+
