@@ -61,8 +61,8 @@ MAME_2 IN ('Abeokuta south', 'Abeokuta north', 'Odeda', 'Ifo', 'Obafemi Owode', 
   
 ## 5. The analysis-ready output
 
-- **File:** `05-data-used/newone rr.qgz`
-- **Format:** qgz
+- **File:** `05-data-used/processed`
+- **Format:** Geopackage (.gpkg)
 - **CRS:** <EPSG:32631>
 - **Produced by:** "manually in QGIS"
 
