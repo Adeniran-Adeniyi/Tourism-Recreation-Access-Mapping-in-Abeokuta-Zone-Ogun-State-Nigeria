@@ -68,4 +68,4 @@ MAME_2 IN ('Abeokuta south', 'Abeokuta north', 'Odeda', 'Ifo', 'Obafemi Owode', 
 
 ---
 
-**Status:** Week 3 complete. First spatial analysis in Week 4.
+**Status:** Week 3 complete. First spatial analysis in Week 4 see [04-month-1-summary](04-month-1-summary.md)
