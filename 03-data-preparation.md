@@ -35,27 +35,33 @@ MAME_2 IN ('Abeokuta south', 'Abeokuta north', 'Odeda', 'Ifo', 'Obafemi Owode', 
 ## 2. Clipping to the study area
 
 - **Boundary used:** > [Abeokuta zone](https://data.grid3.org/datasets/2bb616a49ee84f409427cc2143787113_0/explore?location=9.077959%2C8.685290%2C5)
-- **Features before clipping:** <775>
-- **Features after clipping:** <>
+- **Features before clipping:** 775
+- **Features after clipping:** 6
 
-<One sentence on anything unexpected, for example features that fell just
-outside the boundary and whether you kept them.>
+- **Tourism and recreational sites:** > [tourism and recreation site]()
+- **Features before clipping:** 775
+- **Features after clipping:** 6
+
+- **Tourism and recreational sites:** > [tourism and recreation site]()
+- **Features before clipping:** 775
+- **Features after clipping:** 6
 
 ## 3. The five quality checks
 
 | Check | Result | Action taken |
 |---|---|---|
-| Is the CRS what I think it is? | <yes / no> | <what you did> |
-| Are there nulls in the fields I need? | <count> | <what you did> |
-| Are there duplicate features? | <count> | <what you did> |
-| Is the geometry valid? | <count invalid> | <what you did> |
-| Does coverage span the whole study area? | <yes / no> | <what you did> |
+| Is the CRS what I think it is? | yes | no need for reprojection |
+| Are there nulls in the fields I need? | yes | fill some of the missing fields |
+| Are there duplicate features? | no | no need for editing |
+| Is the geometry valid? | yes | no need to filter |
+| Does coverage span the whole study area? | yes | no action  |
 
 ## 4. Problems found, and what I did
 
-**<Problem.>** <What it was, and whether you fixed it or flagged it.
-Flagging honestly is acceptable. Hiding it is not.>
-
+**Problem.** > major problem i encounter during the preparation stage are as follows:
+- data on tourism and recreation site and recreation sites are not updated
+- some of the field need for the analysis is not avaliable
+  
 ## 5. The analysis-ready output
 
 - **File:** `data/processed/<filename>.gpkg`
