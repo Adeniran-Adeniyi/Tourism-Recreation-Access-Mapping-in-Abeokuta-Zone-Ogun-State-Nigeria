@@ -34,33 +34,30 @@ MAME_2 IN ('Abeokuta south', 'Abeokuta north', 'Odeda', 'Ifo', 'Obafemi Owode', 
 
 ## 2. Clipping to the study area
 
-- **Boundary used:** > [Abeokuta zone](https://data.grid3.org/datasets/2bb616a49ee84f409427cc2143787113_0/explore?location=9.077959%2C8.685290%2C5)
-- **Features before clipping:** 775
-- **Features after clipping:** 6
 
-- **Tourism and recreational sites:** > [tourism and recreation site]()
-- **Features before clipping:** 775
-- **Features after clipping:** 6
 
-- **Tourism and recreational sites:** > [tourism and recreation site]()
-- **Features before clipping:** 775
-- **Features after clipping:** 6
+| features | Features before clipping | Features after clipping |
+|---|---|---|
+| [Abeokuta zone](https://data.grid3.org/datasets/2bb616a49ee84f409427cc2143787113_0/explore?location=9.077959%2C8.685290%2C5) | 775 | 6 |
+| [tourism and recreation site](https://www.openstreetmap.org/#map=9/7.278/3.441) | 30 | 12 |
+| [hotel](https://www.openstreetmap.org/#map=9/7.278/3.441) | 60 | 49 |
+| [road](https://www.openstreetmap.org/#map=9/7.278/3.441) | 777 | 588 |
 
 ## 3. The five quality checks
 
 | Check | Result | Action taken |
 |---|---|---|
-| Is the CRS what I think it is? | yes | no need for reprojection |
+| Is the CRS what I think it is? | yes | no action |
 | Are there nulls in the fields I need? | yes | fill some of the missing fields |
-| Are there duplicate features? | no | no need for editing |
-| Is the geometry valid? | yes | no need to filter |
+| Are there duplicate features? | no | no action |
+| Is the geometry valid? | yes | no action |
 | Does coverage span the whole study area? | yes | no action  |
 
 ## 4. Problems found, and what I did
 
-**Problem.** > major problem i encounter during the preparation stage are as follows:
-- data on tourism and recreation site and recreation sites are not updated
-- some of the field need for the analysis is not avaliable
+> **Problem.**  major problem i encounter during the preparation stage are as follows:
+> - data on tourism and recreation site and recreation sites are not updated
+> - some of the field need for the analysis is not avaliable
   
 ## 5. The analysis-ready output
 
