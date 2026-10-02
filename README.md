@@ -33,7 +33,8 @@
 - [x] Week 1, project brief with a source link for every dataset
 - [x] Week 2, data downloaded, opened and described
 - [x] Week 3, reprojected, clipped and quality checked
-- [ ] Week 4, first spatial analysis, checked four ways
+- [x] Week 4, first spatial analysis, checked four ways
+- [x] week 5, python setup and environment prepareation 
 
 ---
 
