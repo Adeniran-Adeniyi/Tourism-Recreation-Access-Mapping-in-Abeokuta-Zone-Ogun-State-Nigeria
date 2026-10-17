@@ -18,6 +18,10 @@
 │   ├── 01-project-brief.md      Week 1
 │   ├── 02-data-notes.md         Week 2
 │   └── 03-data-preparation.md   Week 3
+|   └──                          week 4
+|   └──                          week 5
+|   └── check.py                 week 6
+|   └── analyse.py               week 7
 ├── data/
 │   ├── raw/                     downloads, not committed
 │   └── processed/               outputs, not committed
