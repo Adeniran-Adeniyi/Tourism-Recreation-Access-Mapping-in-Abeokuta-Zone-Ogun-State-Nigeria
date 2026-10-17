@@ -36,6 +36,7 @@
 - [x] Week 4, first spatial analysis, checked four ways
 - [x] week 5, python setup and environment preparation
 - [x] week 6, set up the project with uv and added pandas. check.py prints the pandas version.
+- [x] week7, analyse.py reads ward csv, convert each area and classifies each ward
 
 ---
 
