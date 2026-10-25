@@ -42,7 +42,7 @@
 - [x] week 5, python setup and environment preparation
 - [x] week 6, set up the project with uv and added pandas. check.py prints the pandas version.
 - [x] week 7, analyse.py reads ward csv, convert each area and classifies each ward
-- [x] week 8, create a function that inspect data, provide the highest, lowest value and count of the column
+- [x] week 8, created a function that inspect data, provide the highest, lowest value and count of the column
 
 ---
 
