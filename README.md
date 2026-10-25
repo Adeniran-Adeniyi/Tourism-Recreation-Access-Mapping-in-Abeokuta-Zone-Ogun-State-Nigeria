@@ -22,6 +22,7 @@
 |   └──                          week 5
 |   └── check.py                 week 6
 |   └── analyse.py               week 7
+|   └── inspect_data.py          week 8
 ├── data/
 │   ├── raw/                     downloads, not committed
 │   └── processed/               outputs, not committed
@@ -40,7 +41,8 @@
 - [x] Week 4, first spatial analysis, checked four ways
 - [x] week 5, python setup and environment preparation
 - [x] week 6, set up the project with uv and added pandas. check.py prints the pandas version.
-- [x] week7, analyse.py reads ward csv, convert each area and classifies each ward
+- [x] week 7, analyse.py reads ward csv, convert each area and classifies each ward
+- [x] week 8, create a function that inspect data, provide the highest, lowest value and count of the column
 
 ---
 
