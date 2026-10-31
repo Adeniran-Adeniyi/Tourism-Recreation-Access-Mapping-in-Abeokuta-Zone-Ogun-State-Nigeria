@@ -54,7 +54,8 @@
 ### month 2 summary 
 > Completed Weeks 5–9, covering Python environment setup, project management with uv, data analysis with Pandas, reusable functions for data inspection and summarisation, and code refactoring for a cleaner, more organised workflow.
 
->Adeniran Adeniyi Damilola · GeoDev Lab Africa
+
+> Adeniran Adeniyi Damilola · GeoDev Lab Africa
 > Learn. Build. Collaborate. Transform.
 
 
