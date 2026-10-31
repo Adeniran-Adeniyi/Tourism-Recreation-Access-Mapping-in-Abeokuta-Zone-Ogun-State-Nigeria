@@ -18,8 +18,8 @@
 │   ├── 01-project-brief.md      Week 1
 │   ├── 02-data-notes.md         Week 2
 │   └── 03-data-preparation.md   Week 3
-|   └──                          week 4
-|   └──                          week 5
+|   └── 04-month-1-summary.md    week 4
+|   └── hello.py                 week 5
 |   └── check.py                 week 6
 |   └── analyse.py               week 7
 |   └── inspect_data.py          week 8
@@ -47,6 +47,12 @@
 - [X] week 9, refractoring code from week 8 and created a function that readfile, cleanfile, summarise and all call all the functions together
 
 ---
+
+### month 1 summary 
+> Completed Weeks 1–4, covering project planning, data acquisition and exploration, preprocessing and quality checks, and the first spatial analysis validated through four different approaches.
+
+### month 2 summary 
+> Completed Weeks 5–9, covering Python environment setup, project management with uv, data analysis with Pandas, reusable functions for data inspection and summarisation, and code refactoring for a cleaner, more organised workflow.
 
 >Adeniran Adeniyi Damilola · GeoDev Lab Africa
 > Learn. Build. Collaborate. Transform.
