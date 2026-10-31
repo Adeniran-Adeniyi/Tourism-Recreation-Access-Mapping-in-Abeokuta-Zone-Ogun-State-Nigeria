@@ -23,6 +23,7 @@
 |   └── check.py                 week 6
 |   └── analyse.py               week 7
 |   └── inspect_data.py          week 8
+|   └── summary.py               week 9
 ├── data/
 │   ├── raw/                     downloads, not committed
 │   └── processed/               outputs, not committed
@@ -43,6 +44,7 @@
 - [x] week 6, set up the project with uv and added pandas. check.py prints the pandas version.
 - [x] week 7, analyse.py reads ward csv, convert each area and classifies each ward
 - [x] week 8, created a function that inspect data, provide the highest, lowest value and count of the column
+- [X] week 9, refractoring code from week 8 and created a function that readfile, cleanfile, summarise and all call all the functions together
 
 ---
 
