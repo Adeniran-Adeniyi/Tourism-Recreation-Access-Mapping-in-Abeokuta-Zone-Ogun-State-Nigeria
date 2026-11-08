@@ -45,6 +45,7 @@
 - [x] week 7, analyse.py reads ward csv, convert each area and classifies each ward
 - [x] week 8, created a function that inspect data, provide the highest, lowest value and count of the column
 - [X] week 9, refractoring code from week 8 and created a function that readfile, cleanfile, summarise and all call all the functions together
+- [x] week 10, Geopandas loaded, checked, joined and mapped
 
 ---
 
@@ -53,6 +54,9 @@
 
 ### month 2 summary 
 > Completed Weeks 5–9, covering Python environment setup, project management with uv, data analysis with Pandas, reusable functions for data inspection and summarisation, and code refactoring for a cleaner, more organised workflow.
+
+### month 3: Geospatial Python Automation 
+- week 10: Geopandas, loaded, checked, joined and mapped my [facilities] in code
 
 ---
 > Adeniran Adeniyi Damilola · GeoDev Lab Africa
