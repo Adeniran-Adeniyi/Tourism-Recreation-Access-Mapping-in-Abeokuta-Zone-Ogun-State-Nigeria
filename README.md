@@ -55,6 +55,8 @@
 ### month 2 summary 
 > Completed Weeks 5–9, covering Python environment setup, project management with uv, data analysis with Pandas, reusable functions for data inspection and summarisation, and code refactoring for a cleaner, more organised workflow.
 
+### month 3
+> week 10, Geopandas loaded, checked, joined and mapped my layer see [expore tourism]()
 ---
 > Adeniran Adeniyi Damilola · GeoDev Lab Africa
 > Learn. Build. Collaborate. Transform.
