@@ -46,6 +46,7 @@
 - [x] week 8, created a function that inspect data, provide the highest, lowest value and count of the column
 - [X] week 9, refractoring code from week 8 and created a function that readfile, cleanfile, summarise and all call all the functions together
 - [x] week 10, Geopandas loaded, checked, joined and mapped
+- [x] week 11, reprojection, spatial operation and fix geometry
 
 ---
 
