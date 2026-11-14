@@ -58,7 +58,7 @@
 
 ### month 3
 > week 10, Geopandas loaded, checked, joined and mapped my layer see [expore tourism](month-3/week-10/explore_tourism_recreation.py) for the python file and [my map](month-3/week-10/tourism-recreation-distribution3.png) for the map
-> week 11, reprojection, spatial operations and fix geometry see [week-11]()
+> week 11, CRS, spatial operations, facility reach, reprojection to EPSG:32631 and fix geometry see [week-11](month-3/week-11)
 ---
 > Adeniran Adeniyi Damilola · GeoDev Lab Africa
 > Learn. Build. Collaborate. Transform.
