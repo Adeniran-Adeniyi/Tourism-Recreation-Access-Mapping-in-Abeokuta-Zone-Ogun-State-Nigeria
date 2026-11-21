@@ -47,6 +47,7 @@
 - [X] week 9, refractoring code from week 8 and created a function that readfile, cleanfile, summarise and all call all the functions together
 - [x] week 10, Geopandas loaded, checked, joined and mapped
 - [x] week 11, reprojection, spatial operation and fix geometry
+- [x] week 12, inspect raster data, clipped raster, zonal statistics, NDVI and reproject raster
 
 ---
 
@@ -56,10 +57,39 @@
 ### month 2 summary 
 > Completed Weeks 5–9, covering Python environment setup, project management with uv, data analysis with Pandas, reusable functions for data inspection and summarisation, and code refactoring for a cleaner, more organised workflow.
 
-### month 3
-> week 10: Geopandas loaded, checked, joined and mapped my layer see [expore tourism](month-3/week-10/explore_tourism_recreation.py) for the python file and [my map](month-3/week-10/tourism-recreation-distribution3.png) for the map
+### month 3 summary
+#### **week 10:** Geopandas loaded, checked, joined and mapped my layer see [expore tourism](month-3/week-10/explore_tourism_recreation.py) for the python file and [my map](month-3/week-10/tourism-recreation-distribution3.png) for the map
 ---
-> week 11: CRS, spatial operations, facility reach, reprojection to EPSG:32631 and fix geometry see [week-11](month-3/week-11)
+#### **week 11:** CRS, spatial operations, facility reach, reprojection to EPSG:32631 and fix geometry see [week-11](month-3/week-11)
+
+#### **week 12** inspect raster data, clipped raster, zonal statistics, NDVI and reproject raster
+**independent challenge**
+1. Raster Inspection
+> - Data type (`Int16`).
+> - Coordinate Reference System (`EPSG:32631`).
+> - Pixel size (approximately 30.72 metres).
+> - Raster bounds and affine transform.
+> - NoData value (`-32768`).
+---
+2. NDVI Calculation
+> - Minimum NDVI: `-0.571`
+> - Maximum NDVI: `0.893`
+> - Mean NDVI: `0.548`
+
+---
+> 3. Zonal Statistics
+
+| LGA | Result |
+| --- | --- |
+| Abeokuta South | 83.2 |
+| Abeokuta North | 108.1 |
+| Ewekoro | 58.8 |
+| Ifo | 51.3 |
+| Obafemi-Owode | 84.8 |
+| Odeda | 133.1 |
+
+
+
 ---
 > Adeniran Adeniyi Damilola · GeoDev Lab Africa
 > Learn. Build. Collaborate. Transform.
