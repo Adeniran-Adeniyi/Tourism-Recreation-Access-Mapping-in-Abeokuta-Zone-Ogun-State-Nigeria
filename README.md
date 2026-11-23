@@ -71,7 +71,7 @@
 > the following are the results Minimum NDVI: `-0.571`, Maximum NDVI: `0.893`, Mean NDVI: `0.548`
 
 ---
-> 3. Zonal Statistics resuilt perform on SRTM elevation data within Abeokuta zone, Ogun state
+3. Zonal Statistics resuilt perform on SRTM elevation data within Abeokuta zone, Ogun state
 
 | LGA | Result |
 | --- | --- |
