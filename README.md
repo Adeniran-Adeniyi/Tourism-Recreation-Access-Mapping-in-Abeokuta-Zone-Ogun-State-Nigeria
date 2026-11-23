@@ -64,20 +64,14 @@
 ---
 #### **week 12:** inspect raster data, clipped raster, zonal statistics, NDVI and reproject raster
 **independent challenge**
-1. Raster Inspection
-> - Data type (`Int16`).
-> - Coordinate Reference System (`EPSG:32631`).
-> - Pixel size (approximately 30.72 metres).
-> - Raster bounds and affine transform.
-> - NoData value (`-32768`).
+1. Raster Inspection on SRTM elevation data
+>the following are the observations Data type (`Int16`), Coordinate Reference System (`EPSG:32631`), Pixel size (approximately 30.72 metres) and NoData value (`-32768`).
 ---
-2. NDVI Calculation
-> - Minimum NDVI: `-0.571`
-> - Maximum NDVI: `0.893`
-> - Mean NDVI: `0.548`
+2. NDVI Calculation on landsat imagery
+> the following are the results Minimum NDVI: `-0.571`, Maximum NDVI: `0.893`, Mean NDVI: `0.548`
 
 ---
-> 3. Zonal Statistics
+> 3. Zonal Statistics resuilt perform on SRTM elevation data within Abeokuta zone, Ogun state
 
 | LGA | Result |
 | --- | --- |
