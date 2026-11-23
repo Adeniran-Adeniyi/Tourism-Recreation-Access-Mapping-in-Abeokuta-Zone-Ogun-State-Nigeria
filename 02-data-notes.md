@@ -12,7 +12,12 @@
 | 2 | Hotels | Vector | September 4 | OK |
 | 3 | Road | Vector | September 4 | OK |
 | 4 | Admin Boundary Level 2 | Vector | September 4 | OK |
-
+---
+### Additional Data
+| # | Dataset | Type | Retrieved | Status |
+|---|---|---|---|---|
+| 1 | SRTM | raster | November 20 | OK |
+| 2 | Landsat | raster | November 20 | OK |
 
 ## GRID3 Nigeria Operational Local Government Area (LGA) Boundaries (administrative level 2)
 - source: [GRID3](https://data.grid3.org/datasets/2bb616a49ee84f409427cc2143787113_0/explore?location=9.077959%2C8.685290%2C5)
@@ -59,5 +64,20 @@ addr:housenumber, addr:city, website, name
 - There is null value in the following columns internet_access:fee, internet_access, though there are website in some of the features
 - Some of the feature are found out side the study area.
 
+## SRTM
+- source: [opentopograpy]()
+- CRS: [EPSG:4326 - WGS 84]
+
+## Landsat 9 
+- source: [USGS](https://earthexplorer.usgs.gov/)
+- resolution: 30m
+- CRS: [EPSG:32613]
+- Bands: band5 and Band 4
+- cloud: free
+- path/row: 191/055
+- Date taken: 20241208
+
+
 **Status:** Week 2 complete. Reprojection and quality checks in Week 3,
 see [03-data-preparation.md](03-data-preparation.md).
+
