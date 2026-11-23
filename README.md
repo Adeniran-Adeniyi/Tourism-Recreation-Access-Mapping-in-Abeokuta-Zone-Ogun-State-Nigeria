@@ -62,7 +62,7 @@
 ---
 #### **week 11:** CRS, spatial operations, facility reach, reprojection to EPSG:32631 and fix geometry see [week-11](month-3/week-11)
 
-#### **week 12** inspect raster data, clipped raster, zonal statistics, NDVI and reproject raster
+#### **week 12:** inspect raster data, clipped raster, zonal statistics, NDVI and reproject raster
 **independent challenge**
 1. Raster Inspection
 > - Data type (`Int16`).
